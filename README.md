@@ -13,5 +13,7 @@ Para correr este programa debes seguir las siguientes instrucciones en la termin
 
 ```sh
 cd app
+source venv/bin/activate
+pip3 install -r requirements.txt
 python3 main.py
 ```
