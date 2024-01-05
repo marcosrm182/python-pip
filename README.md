@@ -25,6 +25,7 @@ Para correr este programa debes seguir las siguientes instrucciones en la termin
 ```sh
 git clone
 cd app
+python3 -m venv venv
 source venv/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
